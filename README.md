@@ -14,7 +14,6 @@ The study is intended to develop a systematic understanding of the mathematical 
 ## Project contents
 
 - `report.pdf`: typeset mathematical and computational report.
-- `report.tex`: complete LaTeX source.
 - `src/brownian.py`: Brownian path simulation, quadratic variation, and time-integral approximation.
 - `src/run_experiments.py`: script to regenerate the figures.
 - `figures/`: figures generated from the simulations.
